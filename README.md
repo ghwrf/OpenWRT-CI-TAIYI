@@ -22,7 +22,7 @@ https://github.com/ftkey/OpenWRT-CI/releases ,如需自定义, 请fork.
     ipq60xx_DEVICE_zn_m2=y # 兆能M2
 
 ## 云编译OpenWRT固件
-[![QCA-ALL](https://github.com/ghwrf/OpenWRT-CI/actions/workflows/QCA-ALL.yml/badge.svg)](https://github.com/ghwrf/OpenWRT-CI/actions/workflows/QCA-ALL.yml)
+[![QCA-ALL](https://github.com/ghwrf/OpenWRT-CI-TAIYI/actions/workflows/QCA-ALL.yml/badge.svg)](https://github.com/ghwrf/OpenWRT-CI-TAIYI/actions/workflows/QCA-ALL.yml)
 
 ### 高通版(NSS) 
     OWRT: https://github.com/VIKINGYFY/immortalwrt.git 
