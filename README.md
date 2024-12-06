@@ -28,6 +28,21 @@ https://github.com/ftkey/OpenWRT-CI/releases ,如需自定义, 请fork.
     OWRT: https://github.com/VIKINGYFY/immortalwrt.git 
     LibWRT: https://github.com/LiBwrt-op/openwrt-6.x.git 
     LEDE: https://github.com/coolsnowwolf/lede.git 
+    
+## 固件下载
+此项目仅做编译学习,也可移步上游仓库下载.
+
+### LEDE: 
+<https://github.com/ftkey/OpenWRT-CI/releases>
+    
+### LEDE-FW4:    
+<https://github.com/ftkey/OpenWRT-CI/releases>
+    
+### OWRT: 
+<https://github.com/VIKINGYFY/OpenWRT-CI/releases>
+    
+### LibWRT: 
+<https://github.com/breeze303/openwrt-ci/releases>
 
 ## 编译时间
 固件自动每天早上4点自动编译
