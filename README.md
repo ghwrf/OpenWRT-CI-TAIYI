@@ -1,7 +1,7 @@
 # ER1-WRT-CI
 
 固件下载地址:
-https://github.com/ftkey/OpenWRT-CI/releases ,如需自定义, 请fork.
+https://github.com/ghwrf/OpenWRT-CI-TAIYI/releases ,如需自定义, 请fork.
 
 
 只编译: 
